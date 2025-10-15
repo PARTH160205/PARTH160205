@@ -6,11 +6,11 @@
 
 ## 🧠 About Me
 
-Hi! I'm **Parth Inamdar**, a passionate **Data Analyst** who loves exploring data and finding patterns that tell powerful stories.  
-🎓 Pursuing studies in **Electronics and Telecommunication Engineering**  
+Hi! I'm **Parth Inamdar**, an enthusiastic **Information Technology Engineering student** passionate about exploring data and uncovering valuable insights.  
+🎓 Pursuing **B.E. in Information Technology**  
 📊 Skilled in **Python, SQL, Excel, and Power BI**  
 📈 Interested in **Data Visualization**, **Business Analytics**, and **Machine Learning**  
-💡 Always curious to explore how data drives smarter decisions  
+💡 Always eager to learn, analyze, and tell stories through data  
 
 ---
 
@@ -24,13 +24,13 @@ Hi! I'm **Parth Inamdar**, a passionate **Data Analyst** who loves exploring dat
 ## 💻 Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?logo=plotly&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-2E8B57?logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?logo=database&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)
@@ -39,15 +39,15 @@ Hi! I'm **Parth Inamdar**, a passionate **Data Analyst** who loves exploring dat
 
 ## 📁 Featured Projects
 
-### 📊 [Netflix Data Analysis using Python](https://github.com/PARTH160205/Netflix-Data-Analysis)
-- Analyzed Netflix dataset using **Pandas** and **NumPy**  
-- Explored insights like popular genres, release trends, and content ratings  
-- Created data visualizations to interpret patterns in viewer preferences  
+### 🎬 [Netflix Capstone Project — Pandas & Matplotlib](https://github.com/PARTH160205/Netflix-Capstone-project---Pandas-matplotlib)
+- Performed **exploratory data analysis** on Netflix dataset using **Pandas** and **Matplotlib**  
+- Identified trends in content type, genres, release years, and country-wise distribution  
+- Created visual insights showing viewer preferences and content diversity  
 
-### 🧮 [HR Dashboard in Power BI](https://github.com/PARTH160205/HR-Dashboard)
-- Designed an **interactive HR analytics dashboard** in Power BI  
-- Showcased employee distribution, attrition rate, and performance metrics  
-- Enhanced data storytelling with filters and visual KPIs  
+### 🧮 [HR Analytics Report — Project 7](https://github.com/PARTH160205/HR-analytics-report---Project-7)
+- Developed an **interactive HR analytics dashboard** in Power BI  
+- Showcased key HR metrics like employee attrition, gender ratio, and satisfaction score  
+- Enhanced data storytelling with filters and visual KPIs for decision-making  
 
 ---
 
