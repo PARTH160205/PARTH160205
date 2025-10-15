@@ -6,11 +6,11 @@
 
 ## 🧠 About Me
 
-Hi! I'm **Parth Inamdar**, an enthusiastic **Information Technology Engineering student** passionate about exploring data and uncovering valuable insights.  
+Hi! I'm **Parth Inamdar**, an enthusiastic **Information Technology Engineering student** passionate about transforming data into meaningful insights.  
 🎓 Pursuing **B.E. in Information Technology**  
 📊 Skilled in **Python, SQL, Excel, and Power BI**  
-📈 Interested in **Data Visualization**, **Business Analytics**, and **Machine Learning**  
-💡 Always eager to learn, analyze, and tell stories through data  
+📈 Focused on **Data Cleaning**, **Data Visualization**, and **Business Analytics**  
+💡 Always eager to explore how data can help in problem-solving and decision-making  
 
 ---
 
@@ -39,7 +39,7 @@ Hi! I'm **Parth Inamdar**, an enthusiastic **Information Technology Engineering 
 
 ## 📁 Featured Projects
 
-### 🎬 [Netflix Capstone Project — Pandas & Matplotlib](https://github.com/PARTH160205/Netflix-Capstone-project---Pandas-matplotlib)
+### 🎬 [Netflix-Capstone-project---Pandas-matplotlib.](https://github.com/PARTH160205/Netflix-Capstone-project---Pandas-matplotlib.)
 - Performed **exploratory data analysis** on Netflix dataset using **Pandas** and **Matplotlib**  
 - Identified trends in content type, genres, release years, and country-wise distribution  
 - Created visual insights showing viewer preferences and content diversity  
