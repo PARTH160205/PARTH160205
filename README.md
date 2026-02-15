@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Parth Inamdar
 
-### 🎯 Turning Data into Insights | Aspiring Data Analyst
+###  Turning Data into Insights | Aspiring Data Analyst
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 Hi! I'm **Parth Inamdar**, an enthusiastic **Information Technology Engineering student** passionate about transforming data into meaningful insights.  
 🎓 Pursuing **B.E. in Information Technology**  
@@ -58,15 +58,18 @@ Hi! I'm **Parth Inamdar**, an enthusiastic **Information Technology Engineering 
 ---
 
 ## 📊 GitHub Stats
-![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![Parth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=PARTH160205&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PARTH160205&layout=compact&theme=tokyonight)
+
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark)
+![Trophies](https://github-profile-trophy.vercel.app/?username=PARTH160205&theme=onedark)
+
 
 ---
 
